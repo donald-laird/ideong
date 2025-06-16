@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_800" data-name="800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 782.79 396">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c13433;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="219.35 0 0 0 0 396 146.11 396 219.35 0"/>
+  <path class="cls-1" d="M694.53,0H323.06l334.04,291.11-296.74,104.52-.67,.38h334.84c48.75,0,88.26-39.52,88.26-88.26V88.26c0-48.75-39.52-88.26-88.26-88.26Z"/>
+</svg>
