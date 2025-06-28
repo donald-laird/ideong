@@ -6,6 +6,8 @@ module:
   imports:
     - path: github.com/imfing/hextra
 
+defaultContentLanguage: zh-cn
+
 markup:
   # allow raw html
   goldmark:
@@ -28,7 +30,7 @@ menu:
       pageRef: /about
       weight: 2
     - name: Contact ↗
-      url: "https://github.com/imfing"
+      url: "https://github.com/donald-laird/ideong"
       weight: 3
     - name: 搜索
       weight: 4
@@ -39,11 +41,6 @@ menu:
       url: "https://github.com/donald-laird/ideong"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
   navbar:
@@ -57,7 +54,9 @@ params:
       height: 20
 
   footer:
-    displayCopyright: false
+    poweredBy: "Powered by Hugo | Hextra"
+    copyright: "© 2025 iDeong Life & Tech"
+    displayCopyright: true
     displayPoweredBy: true
 
   editURL:

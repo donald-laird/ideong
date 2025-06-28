@@ -1,6 +1,7 @@
 ---
 title: "一键实现多协议转Socks5代理：跨境电商多账号独立IP终极方案"
 date: 2025-06-23T11:43:37+08:00
+author: Donald
 description: 告别端口冲突！3 步将 SS/Vmess/Vless 等任意节点转化为独立 Socks5 通道，解决指纹浏览器多账号IP隔离难题
 cascade:
    type: blog

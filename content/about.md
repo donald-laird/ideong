@@ -3,5 +3,4 @@ title: About
 type: about
 ---
 
-This is the about page.
-Test deploy to Cloudflare pages
+这里作为一个记录一些实用的计算机、网络、移动互联网等实用技术的场所，想为我的一些分散在各种笔记的零碎的记录做一些整理汇总，可以留作归档～
