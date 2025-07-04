@@ -52,6 +52,8 @@ tags:
 
 在 `Cloudflare Pages` 设置：
 
+![](/images/2025/20250704-libreTV-pwd.png)
+
 防止陌生人访问你的站点，可设置访问密码：
 
 1. 进入 Cloudflare Pages → 找到你的项目 → 打开左侧「Settings」→「Environment Variables」
@@ -113,6 +115,8 @@ jobs:
 
 部署后每天凌晨自动更新官方代码，无需手动操作。
 
+![](/images/2025/20250704-libreTV-sync-action.png)
+
 ## 第七步：绑定自定义域名（可选但推荐）
 
 将你的站点绑定到自己的域名，如 `tv.hans.com`，更专业好记！
@@ -123,3 +127,5 @@ jobs:
 2. 输入托管到CloudFlare域名」绑定即可
 
 通过本教程，你已经掌握了使用 Cloudflare Pages 快速部署 LibreTV 的方法。后续也可以尝试添加更多 API 接口，实现更强大的聚合播放体验。
+
+![](/images/2025/20250704-libreTV-complete.png)
