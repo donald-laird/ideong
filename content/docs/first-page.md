@@ -1,7 +1,7 @@
 ---
 title: 写在最前
 type: docs
-weight: 0
+weight: 1
 prev: /
 next: docs/how-to-ask/
 ---

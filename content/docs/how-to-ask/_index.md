@@ -1,7 +1,7 @@
 ---
 title: 提问的智慧
 type: docs
-weight: 1
+weight: 2
 prev: docs/first-page
 next: docs/how-to-ask/01-introduction
 sidebar:
