@@ -1,9 +1,9 @@
 ---
-title: Demo Page
+title: 写在最前
 type: docs
+weight: 1
 prev: /
-next: docs/folder/
+next: docs/how-to-ask/
 ---
 
-A simple demo page.
-
+我想在这里收录一些值得看的文章。
