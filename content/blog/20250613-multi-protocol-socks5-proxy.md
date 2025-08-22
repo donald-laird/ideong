@@ -18,16 +18,19 @@ tags:
 - 代理工具**只认 Socks5 端口**且**仅支持单端口出口**
 
 本文将彻底解决这个问题！通过开源工具实现：
+
 ✅ **任意协议节点** → 本地 Socks5 代理  
 ✅ **单端口对应单节点**（多入口多出口）  
 ✅ 全程**前端本地操作**，节点信息零泄露
 
+[【YouTube 视频讲解】](https://youtu.be/ZXanc7wpP9g)
+
 
 ## 所需工具准备
 
-1. **协议转换工具**：[Socks5 生成器](https://your-tool-site.com)（纯前端）
+1. **协议转换工具**：[Socks5 生成器](https://sp.hotrue.cc/)（纯前端）
 2. **代理客户端**：[v2rayN](https://github.com/2dust/v2rayN)（下载ZZ开头压缩包）
-3. **进阶需求**：[本地订阅转换工具](https://subconverter-site.com)（合并多机场）
+3. **进阶需求**：[本地订阅转换工具](https://github.com/tindy2013/subconverter)（合并多机场）
 
 >[!NOTE] 所有工具链接已整理在文末GitHub仓库
 
