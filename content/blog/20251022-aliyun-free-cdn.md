@@ -29,7 +29,7 @@ EdgeOn和cloudflare的基本功能很相似，但是EdgeOne的功能相较于更
 
 网站测速很不错基本都是在3秒内打开，这个速度基本都是秒开啦。海外节点也在三秒之内。
 
-![](images/2025/edgeOne-3.png)
+![](/images/2025/edgeOne-3.png)
 
 ## 接入使用
 
