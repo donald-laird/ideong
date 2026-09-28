@@ -21,8 +21,8 @@ tags:
 
 | 项目              | 说明                                                                                   |
 | --------------- | ------------------------------------------------------------------------------------ |
-| ✅ GitHub 账号     | 用于 Fork 项目并自动部署代码（[https://github.com](https://github.com\)/)）                       |
-| ✅ Cloudflare 账号 | 用于 Pages 免费部署和绑定自定义域名（[https://dash.cloudflare.com](https://dash.cloudflare.com\)/)） |
+| ✅ GitHub 账号     | 用于 Fork 项目并自动部署代码（[https://github.com](https://github.com)）                       |
+| ✅ Cloudflare 账号 | 用于 Pages 免费部署和绑定自定义域名（[https://dash.cloudflare.com](https://dash.cloudflare.com)） |
 | 🌐 自定义域名（可选）    | 如果你希望使用自己的域名，如 `tv.hans.com`，可提前注册好                                                  |
 
 **小贴士：**
